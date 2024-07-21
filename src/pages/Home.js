@@ -17,15 +17,21 @@ import Shrugs from "../data/Shrugs";
 import StitchedBlouses from "../data/StitchedBlouses";
 import TopsAndTshirts from "../data/TopsAndTshirts";
 import JeansPlazzo from "../data/JeansPlazzo";
+import Sarees from "../data/Sarees";
 
 export const Home = () => {
     useTitle("Home");
 
     const categories = [
       {
-        name: 'Home Decor',
+        name: 'Home Decor & Gift Items',
         image: '/assets/images/HomeDecor/HomeDecore1.jpg',
         products: HomeDecor(),
+      },
+      {
+        name: 'Sarees',
+        image: '/assets/images/Sarees/Sarees1.jpg',
+        products: Sarees(),
       },
       {
         name: 'Fitted King-size Bedsheets',
@@ -98,7 +104,7 @@ export const Home = () => {
         products: TopsAndTshirts(),
       },
       {
-        name: 'Bottomwares',
+        name: 'Bottomwears',
         image: '/assets/images/JeansPlazzo/JeansPlazzo1.jpg',
         products: JeansPlazzo(),
       },

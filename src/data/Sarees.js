@@ -1,0 +1,35 @@
+const Sarees = () => {
+    return [
+        {id: 1, name: "Sarees 1", image: "/assets/images/Sarees/Sarees1.jpg"},
+        {id: 2, name: "Sarees 2", image: "/assets/images/Sarees/Sarees2.jpg"},
+        {id: 3, name: "Sarees 3", image: "/assets/images/Sarees/Sarees3.jpg"},
+        {id: 4, name: "Sarees 4", image: "/assets/images/Sarees/Sarees4.jpg"},
+        {id: 5, name: "Sarees 5", image: "/assets/images/Sarees/Sarees5.jpg"},
+        {id: 6, name: "Sarees 6", image: "/assets/images/Sarees/Sarees6.jpg"},
+        {id: 7, name: "Sarees 7", image: "/assets/images/Sarees/Sarees7.jpg"},
+        {id: 8, name: "Sarees 8", image: "/assets/images/Sarees/Sarees8.jpg"},
+        {id: 9, name: "Sarees 9", image: "/assets/images/Sarees/Sarees9.jpg"},
+        {id: 10, name: "Sarees 10", image: "/assets/images/Sarees/Sarees10.jpg"},
+        {id: 11, name: "Sarees 11", image: "/assets/images/Sarees/Sarees11.jpg"},
+        {id: 12, name: "Sarees 12", image: "/assets/images/Sarees/Sarees12.jpg"},
+        {id: 13, name: "Sarees 13", image: "/assets/images/Sarees/Sarees13.jpg"},
+        {id: 14, name: "Sarees 14", image: "/assets/images/Sarees/Sarees14.jpg"},
+        {id: 15, name: "Sarees 15", image: "/assets/images/Sarees/Sarees15.jpg"},
+        {id: 16, name: "Sarees 16", image: "/assets/images/Sarees/Sarees16.jpg"},
+        {id: 17, name: "Sarees 17", image: "/assets/images/Sarees/Sarees17.jpg"},
+        {id: 18, name: "Sarees 18", image: "/assets/images/Sarees/Sarees18.jpg"},
+        {id: 19, name: "Sarees 19", image: "/assets/images/Sarees/Sarees19.jpg"},
+        {id: 20, name: "Sarees 20", image: "/assets/images/Sarees/Sarees20.jpg"},
+        {id: 21, name: "Sarees 21", image: "/assets/images/Sarees/Sarees21.jpg"},
+        {id: 22, name: "Sarees 22", image: "/assets/images/Sarees/Sarees22.jpg"},
+        {id: 23, name: "Sarees 23", image: "/assets/images/Sarees/Sarees23.jpg"},
+        {id: 24, name: "Sarees 24", image: "/assets/images/Sarees/Sarees24.jpg"},
+        {id: 25, name: "Sarees 25", image: "/assets/images/Sarees/Sarees25.jpg"},
+        {id: 26, name: "Sarees 26", image: "/assets/images/Sarees/Sarees26.jpg"},
+        {id: 27, name: "Sarees 27", image: "/assets/images/Sarees/Sarees27.jpg"},
+        {id: 28, name: "Sarees 28", image: "/assets/images/Sarees/Sarees28.jpg"},
+        {id: 29, name: "Sarees 29", image: "/assets/images/Sarees/Sarees29.jpg"},
+    ];
+};
+
+export default Sarees;
