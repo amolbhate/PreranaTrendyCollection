@@ -113,7 +113,7 @@ export const Home = () => {
             <Category 
                 key={category.name} 
                 category={category.name} 
-                image={category.image} 
+                image={'/PreranaTrendyCollection' + category.image} 
                 products={category.products} 
             />
         ))
