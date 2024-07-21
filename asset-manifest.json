@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PreranaTrendyCollection/static/css/main.ca6b2ea4.css",
-    "main.js": "/PreranaTrendyCollection/static/js/main.7f721410.js",
+    "main.js": "/PreranaTrendyCollection/static/js/main.c4ddac9d.js",
     "static/media/logo.png": "/PreranaTrendyCollection/static/media/logo.729fe42e7d23a7906fd5.png",
     "index.html": "/PreranaTrendyCollection/index.html",
     "main.ca6b2ea4.css.map": "/PreranaTrendyCollection/static/css/main.ca6b2ea4.css.map",
-    "main.7f721410.js.map": "/PreranaTrendyCollection/static/js/main.7f721410.js.map"
+    "main.c4ddac9d.js.map": "/PreranaTrendyCollection/static/js/main.c4ddac9d.js.map"
   },
   "entrypoints": [
     "static/css/main.ca6b2ea4.css",
-    "static/js/main.7f721410.js"
+    "static/js/main.c4ddac9d.js"
   ]
 }
