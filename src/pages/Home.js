@@ -1,6 +1,5 @@
 import { useTitle } from "../hooks/useTitle";
 import { Category } from '../components/Category';
-import Electronics from "../data/Electronics";
 import HomeDecor from "../data/HomeDecor";
 import FittedKingBedsheet from "../data/FittedKingBedsheet";
 import FittedQueenBedsheet from "../data/FittedQueenBedsheet";
@@ -18,6 +17,17 @@ import StitchedBlouses from "../data/StitchedBlouses";
 import TopsAndTshirts from "../data/TopsAndTshirts";
 import JeansPlazzo from "../data/JeansPlazzo";
 import Sarees from "../data/Sarees";
+import RangoliDesignFloorMat from "../data/RangoliDesignFloorMat";
+import Kids from "../data/Kids";
+import KundanHairBelt from "../data/KundanHairBelt";
+import MenEthinic from "../data/MenEthinic";
+import QueenSizePureCottonBedsheet from "../data/QueenSizePureCottonBedsheet";
+import OriginalMulmulCotton from "../data/OriginalMulmulCotton";
+import DesignerFestiveKurtaSet from "../data/DesignerFestiveKurtaSet.js";
+import EthinicSkirts from "../data/EthinicSkirts";
+import DiwanSet from "../data/DiwanSet";
+import AriWorkBlousePiece from "../data/AriWorkBlousePiece";
+import AjrakhWarliPrintBlouses from "../data/AjrakhWarliPrintBlouses";
 
 export const Home = () => {
     useTitle("Home");
@@ -25,8 +35,63 @@ export const Home = () => {
     const categories = [
       {
         name: 'Home Decor & Gift Items',
-        image: '/assets/images/HomeDecor/HomeDecore1.jpg',
+        image: '/assets/images/HomeDecor/HomeDecor1.jpg',
         products: HomeDecor(),
+      },
+      {
+        name: 'Rangoli Design Floor Mat',
+        image: '/assets/images/RangoliDesignFloorMat/RangoliDesignFloorMat1.jpg',
+        products: RangoliDesignFloorMat(),
+      },
+      {
+        name: 'Kids Collection',
+        image: '/assets/images/Kids/Kids1.jpg',
+        products: Kids(),
+      },
+      {
+        name: 'Kundan Hair Belt',
+        image: '/assets/images/KundanHairBelt/KundanHairBelt1.jpg',
+        products: KundanHairBelt(),
+      },
+      {
+        name: 'Men Ethinic',
+        image: '/assets/images/MenEthinic/MenEthinic1.jpg',
+        products: MenEthinic(),
+      },
+      {
+        name: 'Queen Size Pure Cotton Bedsheet',
+        image: '/assets/images/QueenSizePureCottonBedsheet/QueenSizePureCottonBedsheet1.jpg',
+        products: QueenSizePureCottonBedsheet(),
+      },
+      {
+        name: 'Original Mulmul Cotton',
+        image: '/assets/images/OriginalMulmulCotton/OriginalMulmulCotton1.jpg',
+        products: OriginalMulmulCotton(),
+      },
+      {
+        name: 'Designer Festive Kurta Set',
+        image: '/assets/images/DesignerFestiveKurtaSet/DesignerFestiveKurtaSet1.jpg',
+        products: DesignerFestiveKurtaSet(),
+      },
+      {
+        name: 'Ethinic Skirts',
+        image: '/assets/images/EthinicSkirts/EthinicSkirts1.jpg',
+        products: EthinicSkirts(),
+      },
+      {
+        name: 'Diwan Set',
+        image: '/assets/images/DiwanSet/DiwanSet1.jpg',
+        products: DiwanSet(),
+      },
+      {
+        name: 'Ajrakh Warli Print Blouses',
+        image: '/assets/images/AjrakhWarliPrintBlouses/AjrakhWarliPrintBlouses1.jpg',
+        products: AjrakhWarliPrintBlouses(),
+      },
+      {
+        name: 'Ari Work Blouse Piece',
+        image: '/assets/images/AriWorkBlousePiece/AriWorkBlousePiece1.jpg',
+        products: AriWorkBlousePiece(),
       },
       {
         name: 'Sarees',

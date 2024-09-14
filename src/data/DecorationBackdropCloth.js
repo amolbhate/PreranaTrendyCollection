@@ -16,6 +16,16 @@ const DecorationBackdropCloth = () => {
         {id: 14, name: "Decoration Backdrop Cloth 14", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth14.jpg"},
         {id: 15, name: "Decoration Backdrop Cloth 15", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth15.jpg"},
         {id: 16, name: "Decoration Backdrop Cloth 16", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth16.jpg"},
+        {id: 17, name: "Decoration Backdrop Cloth 17", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth17.jpg"},
+        {id: 18, name: "Decoration Backdrop Cloth 18", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth18.jpg"},
+        {id: 19, name: "Decoration Backdrop Cloth 19", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth19.jpg"},
+        {id: 20, name: "Decoration Backdrop Cloth 20", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth20.jpg"},
+        {id: 21, name: "Decoration Backdrop Cloth 21", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth21.jpg"},
+        {id: 22, name: "Decoration Backdrop Cloth 22", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth22.jpg"},
+        {id: 23, name: "Decoration Backdrop Cloth 23", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth23.jpg"},
+        {id: 24, name: "Decoration Backdrop Cloth 24", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth24.jpg"},
+        {id: 25, name: "Decoration Backdrop Cloth 25", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth25.jpg"},
+        {id: 26, name: "Decoration Backdrop Cloth 26", image: "/assets/images/DecorationBackdropCloth/DecorationBackdropCloth26.jpg"},
     ];
 };
 
